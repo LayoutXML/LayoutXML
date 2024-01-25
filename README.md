@@ -12,6 +12,6 @@ A special thank you:
 
 > Thank you for taking the time to explore my GitHub. Feel free to reach out if you have any questions or if there's a particular project that piques your interest. You can find me using the links below.
             
- [Website](https://rokas.dev/) | [Projects](https://rokas.dev/projects) | [About me](https://rokas.dev/about) | [Contact me](https://rokas.dev/contacts) | [Linkedin](https://www.linkedin.com/in/jankunasrokas/) | [hello@rokas.dev](mailto:hello@rokas.dev)
+ [Website](https://rokas.dev/) | [Projects](https://rokas.dev/projects) | [About me](https://rokas.dev/about) | [Contact me](https://rokas.dev/contacts) | [Linkedin](https://www.linkedin.com/in/jankunasrokas/)
  
 :uk: :lithuania: :eu:
