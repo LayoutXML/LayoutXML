@@ -1,6 +1,6 @@
 ### Rokas Jankunas
 
-Hello, my name is Rokas Jankunas and I'm a a tech enthusiast and a Software Engineer, specialising in Java tech stack. My personal projects have been featured on major tech news websites such as Gizmodo, Lifehacker, Android Authority, and XDA-Developers. In addition to that, I have an Oracle Certified Professional Java certification.
+Hello, my name is Rokas Jankunas and I'm a tech enthusiast and a Software Engineer, specialising in Java tech stack. My personal projects have been featured on major tech news websites such as Gizmodo, Lifehacker, Android Authority, and XDA-Developers. Feel free to connect with me to discuss tech, explore my projects, or just say hello.
 
 A special thank you:
 
